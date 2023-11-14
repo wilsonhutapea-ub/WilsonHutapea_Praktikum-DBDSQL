@@ -39,9 +39,3 @@ select i.name, min(i.salary) from sampel_university.instructor i;
 
 # No 5
 select c.title, max(c.credits) "max cred" from sampel_university.course c;
-
-# No 6
-select * from sampel_university.student s;
-select first_value("Manber") over (ORDER BY ID) from sampel_university.student s;
-
-# No 7

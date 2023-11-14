@@ -1,6 +1,6 @@
 # 💻 Tugas 5 Praktikum : Scalar & Aggregate Functions in SQL
 
-> "A <b>Scalar Function</b> can be used in SQL queries wherever an expression can be used. Typical scalar functions are arithmetic functions like + and * or concat for string concatenation. By contrast, an <b>Aggregate Function</b> is applied to the values of a single column of either a group of rows or of all rows of an input table. A group of rows occurs if a GROUP-BY clause is used. " <br> <b>Jaedicke, M., &amp; Mitschang, B. (1998).</b> On parallel processing of aggregate and scalar functions in object-relational DBMS. ACM SIGMOD Record, 27(2), 379–389. <br> https://doi.org/10.1145/276305.276338 
+> "A <b>Scalar Function</b> can be used in SQL queries wherever an expression can be used. Typical scalar functions are arithmetic functions like + and * or concat for string concatenation. By contrast, an <b>Aggregate Function</b> is applied to the values of a single column of either a group of rows or of all rows of an input table. A group of rows occurs if a GROUP-BY clause is used." <br><b>Jaedicke, M., &amp; Mitschang, B. (1998).</b> On parallel processing of aggregate and scalar functions in object-relational DBMS. ACM SIGMOD Record, 27(2), 379–389. <br> https://doi.org/10.1145/276305.276338 
 
 Berikut merupakan langkah pengerjaan praktikum serta hasil screenshot pengerjaan praktikum Modul Fungsi Skalar dan Fungsi Agregasi.
 
